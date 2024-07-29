@@ -1,0 +1,19 @@
+{
+  "packageDirectories": [
+    {
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "path": "force-app",
+      "default": true,
+      "package": "md-package-tests",
+      "versionDescription": "Test Package"
+    }
+  ],
+  "name": "md-package-tests",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "61.0",
+  "packageAliases": {
+    "md-package-tests": "0HoIg000000GmaYKAS"
+  }
+}
